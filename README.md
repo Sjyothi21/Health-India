@@ -1,6 +1,6 @@
 ✨ Health India ✨
 
-This is for online shopping for health website design 
+This is for online health tips and knowledge website design 
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
@@ -11,7 +11,7 @@ Note: Bot is deployed on contact page
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://onlineshopping1.azurewebsites.net
+**Project Link** - https://onlinehealth2.azurewebsites.net/
 
 ## Problem Statement/Opportunity :
 An e-commerce company wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page, Product detail Page, Cart, Product Category Page, Checkout Page along with FAQ Bot deployed on Website for customers help.
